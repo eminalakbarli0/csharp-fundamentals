@@ -1,3 +1,10 @@
+/*
+ * Topic: Data Types in C#
+ * Description: Demonstrates the basic built-in data types,
+ * variable declaration, constants, and output using Console.WriteLine().
+ */
+
+
 using System;
 
 class Program
